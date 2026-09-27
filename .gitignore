@@ -9,10 +9,6 @@ Release/
 # Logs
 *.log
 
-# Eclipse / e2 studio metadata
-.metadata/
-.settings/
-
 # Temporary files
 *.tmp
 *.bak
