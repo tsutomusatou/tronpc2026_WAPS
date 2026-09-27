@@ -1,0 +1,21 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
+
+# Eclipse / e2 studio metadata
+.metadata/
+.settings/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Renesas Smart Configurator generated cache
+script/.cache/
